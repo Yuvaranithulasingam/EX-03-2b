@@ -1,4 +1,4 @@
-# EX-03-2b  FIBONACCI SERIES
+# EX-3(B)        FIBONACCI SERIES
 
 ## AIM:
 To write a C program to generate the Fibonacci series for the value 
